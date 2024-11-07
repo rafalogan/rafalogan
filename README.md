@@ -1,7 +1,7 @@
-## Rafael Candeira (Rafa.D.W) Desemvolvedor Senior
+## Rafael Candeira (Rafa.D.W) Desenvolvedor Sênior
 
 
-👨‍💻 Desenvolvedor Senior Fullstack Especialista em Node.js | JavaScript/TypeScript | Angular/Vue/React | GraphQL/Express/NestJS 🚀
+👨‍💻 Desenvolvedor Sênior Fullstack Especialista em Node.js | JavaScript/TypeScript | Angular/Vue/React | GraphQL/Express/NestJS 🚀
 
 Com mais de 16 anos de experiência em desenvolvimento de software, sou apaixonado por criar soluções inovadoras e escaláveis. Minha especialização abrange o ecossistema completo, desde o frontend até o backend, com foco principal em tecnologias Node.js.
 Ao longo da minha carreira, tive a oportunidade de liderar equipes multifuncionais, colaborando em projetos desafiadores e entregando soluções de software de classe mundial para clientes em diversos setores. Estou constantemente buscando aprender e crescer, mantendo-me atualizado com as últimas tendências e melhores práticas da indústria de desenvolvimento de software.
@@ -23,6 +23,10 @@ database:
 ![image](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![image](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![image](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+desktop:
+
+![image](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 
 Frontend:
 
