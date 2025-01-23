@@ -1,8 +1,8 @@
 ## Rafael Candeira (Rafa.D.W) Desenvolvedor Sênior
 
-👨‍💻 Desenvolvedor Sênior Fullstack Especialista em Node.js | JavaScript/TypeScript | Angular/Vue/React | GraphQL/Express/NestJS 🚀
+# 👨‍💻 Desenvolvedor Sênior Fullstack Especialista em Node.js | JavaScript/TypeScript | Angular/Vue/React | GraphQL/Express/NestJS 🚀
 
-Com mais de 16 anos de experiência em desenvolvimento de software, sou apaixonado por criar soluções inovadoras e escaláveis. Minha especialização abrange o ecossistema completo, desde o frontend até o backend, com foco principal em tecnologias Node.js.
+Com mais de 16 anos de experiência em desenvolvimento de software, sou apaixonado por criar soluções inovadoras e escaláveis. Minha especialização abrange o ecossistema completo, desde o frontend até o backend, com foco principal em tecnologias NodeJs.
 Ao longo da minha carreira, tive a oportunidade de liderar equipes multifuncionais, colaborando em projetos desafiadores e entregando soluções de software de classe mundial para clientes em diversos setores. Estou constantemente buscando aprender e crescer, mantendo-me atualizado com as últimas tendências e melhores práticas da indústria de desenvolvimento de software.
 
 ### English:
