@@ -2,15 +2,17 @@
 
 👨‍💻 Software Engineer | Software Architect | Sr. Full Stack Developer | TypeScript JavaScript | Angular Vue React | NodeJS Specialist GraphQL Express NestJS 🚀
 
-<p style="text-align: justify" >
+<p style="text-align: justify;" >
 Com mais de 16 anos de experiência em desenvolvimento de software, sou apaixonado por criar soluções inovadoras e escaláveis. Minha especialização abrange o ecossistema completo, desde o frontend até o backend, com foco principal em tecnologias NodeJs. Ao longo da minha carreira, tive a oportunidade de liderar equipes multifuncionais, colaborando em projetos desafiadores e entregando soluções de software de classe mundial para clientes em diversos setores. Estou constantemente buscando aprender e crescer, mantendo-me atualizado com as últimas tendências e melhores práticas da indústria de desenvolvimento de software.<br/>  
 Adoto os princípios de desenvolvimento e arquitetura S.O.L.I.D., Clean Code, Clean Architecture e programação pragmática para garantir que o código seja sustentável, legível e fácil de manter. Acredito que a aplicação desses princípios é fundamental para a criação de software de alta qualidade e para a evolução contínua das práticas de desenvolvimento.
 </p>
 ### English:
-<p style="text-align: justify" >
+<p style="text-align: justify;" >
 With over 16 years of experience in software development, I am passionate about creating innovative and scalable solutions. My expertise covers the entire ecosystem, from frontend to backend, with a primary focus on NodeJs technologies. Throughout my career, I have had the opportunity to lead cross-functional teams, collaborating on challenging projects and delivering world-class software solutions to clients across various industries. I am constantly striving to learn and grow, staying up-to-date with the latest trends and best practices in the software development industry.<br/>
 I adopt the principles of S.O.L.I.D. development and architecture, Clean Code, Clean Architecture, and pragmatic programming to ensure that the code is sustainable, readable, and easy to maintain. I believe that applying these principles is essential for creating high-quality software and for the continuous evolution of development practices.
 </p>
+
+
 ## 🚀 Tecnologias
 
 Backend:
